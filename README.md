@@ -78,7 +78,6 @@ I focus on building reliable applications, uncovering security vulnerabilities, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BallapuramPrakashRoyal&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=BallapuramPrakashRoyal&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
