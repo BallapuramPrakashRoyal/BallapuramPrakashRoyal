@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BallapuramPrakashRoyal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  
 </p>
 
 ---
@@ -77,7 +77,7 @@ I focus on building reliable applications, uncovering security vulnerabilities, 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BallapuramPrakashRoyal&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=BallapuramPrakashRoyal&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
