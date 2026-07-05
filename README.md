@@ -19,7 +19,7 @@ I focus on building reliable applications, uncovering security vulnerabilities, 
 
 - 🌐 Professional Network: [LinkedIn](https://www.linkedin.com/in/ballapuramprakashroyal/)
 - 💼 Portfolio: [prakash-royal-pr-portfolio.lovable.app](https://prakash-royal-pr-portfolio.lovable.app)
-- 📧 Email: [Contact via E-mail](prakashroyal.ballapuram@gmail.com)
+- 📧 Email: prakashroyal.ballapuram@gmail.com
 
 ### ✨ A few things about me
 - 🛡️ I enjoy hunting real-world vulnerabilities and strengthening security posture.
