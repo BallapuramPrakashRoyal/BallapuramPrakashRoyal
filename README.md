@@ -14,11 +14,15 @@
 
 ## 🚀 About Me
 
-I’m **PRAKASH ROYAL BALLAPURAM**, a passionate **Security Researcher**, **Full Stack Developer**, and **Data Analyst** with **3 years of experience**.
+I’m **PRAKASH ROYAL BALLAPURAM**, a Computer Science graduate with a strong interest and hands-on experience in **software engineering**, **artificial intelligence**, **full-stack development**, and **cybersecurity**. I enjoy building practical, scalable applications and exploring intelligent solutions to real-world problems.
+
+My experience spans full-stack development, penetration testing, vulnerability assessment, AI/ML applications, and software engineering. I strive to bridge the gap between robust security practices and modern application development.
+
+I hold a B.Tech in Computer Science and Technology from Madanapalle Institute of Technology and Science (MITS) with a CGPA of 9.15.
 I focus on building reliable applications, uncovering security vulnerabilities, and turning raw data into actionable insights.
 
 - 🌐 Professional Network: [LinkedIn](https://www.linkedin.com/in/ballapuramprakashroyal/)
-- 💼 Portfolio: [prakash-royal-pr-portfolio.lovable.app](https://prakash-royal-pr-portfolio.lovable.app)
+- 💼 Portfolio: [Portfolio](https://prakash-portfolio-lilac.vercel.app/ )
 - 📧 Email: prakashroyal.ballapuram@gmail.com
 
 ### ✨ A few things about me
@@ -42,6 +46,7 @@ I focus on building reliable applications, uncovering security vulnerabilities, 
 
 ### 🛠️ Backend & Databases
 <p>
+  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -54,7 +59,6 @@ I focus on building reliable applications, uncovering security vulnerabilities, 
   <img src="https://img.shields.io/badge/Bug%20Bounty-FF6F00?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
@@ -67,7 +71,7 @@ I focus on building reliable applications, uncovering security vulnerabilities, 
   <a href="https://www.linkedin.com/in/ballapuramprakashroyal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ballapuram%20Prakash%20Royal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://prakash-royal-pr-portfolio.lovable.app" target="_blank">
+  <a href="https://prakash-portfolio-lilac.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -88,7 +92,7 @@ I focus on building reliable applications, uncovering security vulnerabilities, 
   <a href="https://www.linkedin.com/in/ballapuramprakashroyal/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://prakash-royal-pr-portfolio.lovable.app">
+  <a href="https://prakash-portfolio-lilac.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
